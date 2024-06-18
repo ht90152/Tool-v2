@@ -35,6 +35,7 @@ https://www.autohotkey.com/
 |  | replace() | use InputBox to input find and replace string. Replace selection and Send | Ctrl+Alt+T |
 |  | trimSpace() | Trim selection and Send | Ctrl+Alt+Space |
 |  | indent() | then press i(increase)/d(decrease) indent(`"  "`). Change indent of selection and Send | Ctrl+Alt+I |
+|  | Simplified2Traditional(toSimp) | convert selected text from simplified chinese to traditional chinese, toSimp default = 0 | Ctrl+Alt+V |
 |  | mdTable() | use InputBox to input row and col. Send markdown table | Ctrl+Alt+B |
 | File | RUN ::{645FF040-5081-101B-9F08-00AA002F954E} | Open Recycle Bin | Ctrl+Alt+X |
 |  | copy() | Copy and sleep 100 ms |  |
@@ -87,4 +88,4 @@ Major_Version_Number.Minor_Version_Number(.Revision_Number.Build_Number)\
 | 2023-12-01 | 2.6.0 | Feature | create shortcut |  |
 | 2023-03-10 | 2.6.1 | Fix | fix HotGUI |  |
 | 2024-04-01 | 2.7.0 | Feature | TTS |  |
-
+| 2024-06-18 | 2.8.0 | Feature | Simplified/Traditional Chinese |  |
