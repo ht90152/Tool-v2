@@ -44,6 +44,8 @@ https://www.autohotkey.com/
 | Window | WinSetAlwaysOnTop -1, "A" | Selected Window Always on top | Ctrl+F1 |
 |  | Send "!{Tab}" | Switch window | LButton+RButton |
 |  | Send "#d" | Show Desktop | RButton+LButton |
+|  | scheduleShutdown() | Schedule shutdown in seconds | Ctrl+Alt+F11 |
+|  | cancelScheduleShut() | Cancel schedule shutdown | Ctrl+Alt+F12 |
 |  | setTrans() | then press 1~9(transparent alpha)/else(non-transparent) to change transparency of window | Ctrl+Alt+Q |
 |  | moveApp(alias, x, y, width, height) | Move window to (x, y) and set (width, height) |  |
 |  | moveToDesktop("left"/"right") | Move window to last/next virtual desktop | Ctrl+Alt+Left/Right |
@@ -89,3 +91,5 @@ Major_Version_Number.Minor_Version_Number(.Revision_Number.Build_Number)\
 | 2023-03-10 | 2.6.1 | Fix | fix HotGUI |  |
 | 2024-04-01 | 2.7.0 | Feature | TTS |  |
 | 2024-06-18 | 2.8.0 | Feature | Simplified/Traditional Chinese |  |
+| 2024-06-18 | 2.8.0 | Feature | Schedule Shutdown |  |
+| 2024-06-19 | 2.9.0 | Feature | Over-the-air update |  |
