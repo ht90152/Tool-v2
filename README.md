@@ -93,3 +93,4 @@ Major_Version_Number.Minor_Version_Number(.Revision_Number.Build_Number)\
 | 2024-06-18 | 2.8.0 | Feature | Simplified/Traditional Chinese |  |
 | 2024-06-18 | 2.8.0 | Feature | Schedule Shutdown |  |
 | 2024-06-19 | 2.9.0 | Feature | Over-the-air update |  |
+| 2024-06-21 | 2.9.1 | Fix | fix get w, h of monitor |  |
