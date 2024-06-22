@@ -95,3 +95,4 @@ Major_Version_Number.Minor_Version_Number(.Revision_Number.Build_Number)\
 | 2024-06-19 | 2.9.0 | Feature | Over-the-air update |  |
 | 2024-06-21 | 2.9.1 | Fix | fix get w, h of monitor |  |
 | 2024-06-22 | 2.9.2 | Fix | fix Over-the-air update, delete old exe |  |
+| 2024-06-23 | 2.9.3 | Fix | fix gui, add link |  |
